@@ -72,7 +72,9 @@ However it had a very little impact on the validation accuracy and significantly
 
 ### **Third Model: CNN with Stochastic Gradient Descent (SGD) Optimization**
 
-Changing the optimiser for L1 only improved the model performance by 2%. which is not significant enough but it goes to show that sometimes changing the optimiser can help.
+###**Training Progress:** Changing the optimiser for L1 only improved the model performance by 2%. which is not significant enough but it goes to show that sometimes changing the optimiser can help.
+
+### **Model Evaluation & Performance Test Accuracy:** 69.5% F1 Score: 0.67 (Weighted) Precision: 0.59, Recall: 0.78 Confusion Matrix Analysis: Potable Water Detection: Recall = 47% (Needs improvement) Non-Potable Water Detection: Recall = 89% (Good detection)
 
 **Confusion Matrix for model above:**
 

@@ -29,6 +29,8 @@ Each feature's relationship with others was assessed, showing that no two or mor
 This suggests that all features contribute unique information to the model, reducing the need for dimensionality reduction techniques.
 
 ![Screenshot 2024-10-04 170215](https://github.com/user-attachments/assets/8b6e9b9e-fb7c-4b52-bb1f-0e68023cf48e)
+<img width="732" alt="Image" src="https://github.com/user-attachments/assets/0e3d1047-396b-409a-a5bc-c2edeba1df86" />
+
 
 ###  **First Model: Regularized Deep Neural Network (DNN) with Adam optimizer, L2 Regularization**
 The model trained on water potability predictions is increasing smoothly in accuracy over the epochs, while it is overfitting at the same time after a certain point in the process.

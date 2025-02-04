@@ -68,7 +68,7 @@ However it had a very little impact on the validation accuracy and significantly
 
 **Confusion Matrix for model explained above:**
 
-![download](https://github.com/user-attachments/assets/3a4ed90b-2c52-497e-a882-d3f99ff166ff)
+<img width="555" alt="Image" src="https://github.com/user-attachments/assets/96b566d6-7ec0-46d4-a81f-fce761de26ac" />
 
 ### **Third Model: CNN with Stochastic Gradient Descent (SGD) Optimization**
 

@@ -28,7 +28,6 @@ various features in the dataset.
 Each feature's relationship with others was assessed, showing that no two or more variables were strongly correlated. 
 This suggests that all features contribute unique information to the model, reducing the need for dimensionality reduction techniques.
 
-![Screenshot 2024-10-04 170215](https://github.com/user-attachments/assets/8b6e9b9e-fb7c-4b52-bb1f-0e68023cf48e)
 <img width="732" alt="Image" src="https://github.com/user-attachments/assets/0e3d1047-396b-409a-a5bc-c2edeba1df86" />
 
 
@@ -48,7 +47,7 @@ A decent start where initial accuracies lie in the range of 0.59 and quickly get
 
 **Overfitting Signs:** After the 35th epoch, the validation loss starts to be stuck, or even slightly increase, while the accuracy of training continuously improves-this is a surefire sign of overfitting.
 
-![first](https://github.com/user-attachments/assets/ae47a6f2-344e-41b5-bdc0-4871610596c8)
+<img width="555" alt="Image" src="https://github.com/user-attachments/assets/3bf9b63f-9f18-4fc9-94e5-b984f79cc873" />
 
 ### **Validation Performance:**
 The validation accuracy was hovering between 66 and 70%, and hence proved moderate generalization on unseen data but could not show further consistent improvement.

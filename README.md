@@ -76,7 +76,7 @@ Changing the optimiser for L1 only improved the model performance by 2%. which i
 
 **Confusion Matrix for model above:**
 
-![download](https://github.com/user-attachments/assets/3a4ed90b-2c52-497e-a882-d3f99ff166ff)
+<img width="555" alt="Image" src="https://github.com/user-attachments/assets/e094f471-6d45-49f5-870f-48c87cf2baff" />
 
 As we can see, the confusion matrix did not change compared to the previous one.
 
@@ -88,10 +88,6 @@ i) Higher Learning Rate: The model trained faster with fewer epochs, but larger 
 
 ii) Lower Learning Rate: The model trained slower, requiring more epochs but resulted in smoother convergence and more stable training.
 The overall overview is that the model results and accuracy did not differ from the previous model as the confusion matrices are almost identical. 
-
-**Confusion Matrix for the model above:**
-
-![tfdownload](https://github.com/user-attachments/assets/4c394239-f9ef-42f0-bdeb-69f51fa66763)
 
 
 ### <u>Authors and Contributors</u>
